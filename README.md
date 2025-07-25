@@ -1,5 +1,5 @@
 <div>
-  <img align="center" width="80%" src="./Hello World!! Udinn’s Here.gif">
+  <img align="center" width="100%" src="./Hello World!! Udinn’s Here.gif">
 </div>
 
 <div>
