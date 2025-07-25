@@ -25,8 +25,6 @@
 <br/>
 <br/>
 <br/>
-<br />
-<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
