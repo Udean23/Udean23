@@ -55,6 +55,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
