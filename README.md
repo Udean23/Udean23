@@ -6,11 +6,6 @@
   <img align="right" width="60%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<br />
-<br/>
-<br/>
-<br/>
-<br/>
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Udin Here
 *Digital Craftsman (Developer / Programmer)*
